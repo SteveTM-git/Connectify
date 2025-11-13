@@ -32,7 +32,6 @@ Users can:
 - View profiles  
 - Enjoy smooth page transitions and clean UI animations  
 
-Built specifically to showcase **Flutter, Firebase, UI/UX, and real-time app development skills** for campus placements & recruiters.
 
 ---
 
