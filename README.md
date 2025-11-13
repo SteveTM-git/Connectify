@@ -91,6 +91,10 @@ Built specifically to showcase **Flutter, Firebase, UI/UX, and real-time app dev
 |               |
  |<img width="309" height="683" alt="Screenshot 2025-11-13 at 11 11 07 AM" src="https://github.com/user-attachments/assets/df89e3df-9e50-432b-a488-ce4df25cc5fc" />
 
+| Firebase |
+|----------|
+|<img width="1142" height="650" alt="image" src="https://github.com/user-attachments/assets/55bb060d-74f1-4355-8e4f-c5668b4eb02f" />
+
 
 ---
 
